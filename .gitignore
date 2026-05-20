@@ -1,0 +1,30 @@
+# Never commit Pokémon ROM files — Nintendo owns the code
+*.gba
+*.gbc
+*.gb
+*.nds
+*.3ds
+*.iso
+
+# Save files contain personal play state
+*.sav
+*.sa1
+*.sa2
+*.srm
+*.state
+*.ss?
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# macOS
+.DS_Store
+
+# Editor cruft
+.vscode/
+.idea/
+*.swp
