@@ -1,4 +1,4 @@
-# Pokémon Emerald — Gastly Starter Hack
+# Pokémon Emerald — Gengar Edition (Gastly Starter Hack)
 
 ![Title screen mockup](images/title_mockup.png)
 
