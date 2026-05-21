@@ -1,6 +1,6 @@
 # Pokémon Emerald — Gengar Edition (Gastly Starter Hack)
 
-![Title screen mockup](images/title_mockup.png)
+![Title screen mockup](images/pokemon-gastly-haunter-gengar-redesign.jpg)
 
 A weekend ROM hack for Pokémon Emerald (US 1.0). Built mostly with Claude — I drove the design choices, ran the emulator, debugged the live issues, and Claude did the byte-level ROM work. Posting it because I had fun and figured someone else might too.
 
